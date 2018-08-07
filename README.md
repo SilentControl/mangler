@@ -1,4 +1,4 @@
-# Interactive Executable Mangler
+# ELF Editor
 
 Binary analysis and reverse engineering of executables are part of the skill set required for security analysts, consultants and hackers. These skills not only allow in-depth understanding of proprietary platforms and software, but also a better understanding of the inner workings of an executable that may be built from code one has access to.
 
